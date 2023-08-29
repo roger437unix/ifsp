@@ -2,7 +2,7 @@
 
 # Inteligência Artificial e Machine Learning 
 
-Páginas das aulas de extensão no IFSP
+Página das aulas de extensão no IFSP
 
 **Contatos**
 
